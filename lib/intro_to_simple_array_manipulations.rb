@@ -1,5 +1,3 @@
-# after testing at the "using_insert" section, the tests no longer loaded, citing an error while loading the lesson file. I refreshed multiple times, however no tests would show, despite multiple tries of "learn", "learn test", o "learn --fail-fast", so I continued and just put which code I thought would be correct, as the greenlight for tests was there. 
-
 
 def using_push (array, string)
   array.push(string)
